@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HotelWebApp
+build_property.RootNamespace = HotelWebApp
+build_property.ProjectDir = M:\CSHARP\C# Mayank\C# Mayank\HotelManagementProject (3) (2)\HotelManagementProject\HotelWebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = M:\CSHARP\C# Mayank\C# Mayank\HotelManagementProject (3) (2)\HotelManagementProject\HotelWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Account/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Account/DeleteUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZWxldGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Account/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0VXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Account/GetMyUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxHZXRNeVVzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Account/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVc2VyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Menu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Menu/DeleteMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxEZWxldGVNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Menu/EditMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxFZGl0TWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Menu/GetMyMenus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxHZXRNeU1lbnVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Menu/MenuDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxNZW51RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/CSHARP/C\# Mayank/C\# Mayank/HotelManagementProject (3) (2)/HotelManagementProject/HotelWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uxe423cw0p

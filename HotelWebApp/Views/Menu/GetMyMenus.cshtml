@@ -1,0 +1,79 @@
+﻿@model IEnumerable<HotelWebApp.Models.Menu>
+
+@{
+    ViewData["Title"] = "GetMyMenus";
+    var Usertype = "User";
+}
+
+<h1>GetMyMenus</h1>
+@if (Usertype == "Admin")
+{
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Menu_ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Menu_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Menu_Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Menu_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Menu_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Menu_Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+                @if (Usertype == "Admin")
+                {
+                    <td>
+                        @Html.ActionLink("Edit", "EditMenu", new {  id=item.Menu_ID }) |
+                        @Html.ActionLink("Details", "MenuDetails", new {  id=item.Menu_ID }) |
+                        @Html.ActionLink("Delete", "DeleteMenu", new { id=item.Menu_ID })
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        @Html.ActionLink("Details", "MenuDetails", new {  id=item.Menu_ID }) |
+                    </td>
+                }
+        </tr>
+}
+    </tbody>
+</table>
